@@ -1,0 +1,10 @@
+This Game is Two Player Game as it has 3x3 Grid and denoted by 
+'X' & 'O'. 
+
+Player 1 is 'X' & Player 2 is 'O'.
+
+
+If one player is successful in placing 'X' or 'O' horizontally, vertically 
+or diagonal wins the game.
+ 
+For practice before starting game will be done.
